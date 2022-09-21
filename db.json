@@ -2,11 +2,13 @@
   "users": [
     {
       "cli": "61480079237",
-      "workshop": "61419727831"
+      "workshop": "61419727831",
+      "nearestworkhop": "Dee Why. Home for knackered old cars."
     },
     {
       "cli": "61480046467",
-      "workshop": "61419597332"
+      "workshop": "61419597332",
+      "nearestworkhop": "Balina. Near that bloke with the short arms."
     }
   ]
 }
