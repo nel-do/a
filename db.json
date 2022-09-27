@@ -3,12 +3,14 @@
     {
       "cli": "61480079237",
       "workshop": "61419727831",
-      "nearestworkhop": "Ballina. Near that bloke with the short arms."
+      "nearestworkhop": "Ballina. Near that bloke with the short arms.",
+      "username": "Mark"
     },
     {
       "cli": "61480046467",
       "workshop": "61419597332",
-      "nearestworkhop": "Dee Why. Home for knackered old cars."
+      "nearestworkhop": "Dee Why. Home for knackered old cars.",
+      "username": "Neil"
     }
   ]
 }
